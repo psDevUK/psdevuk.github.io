@@ -1,10 +1,11 @@
----
+        ---
+
 layout: default
 img: dog.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Working Projects<br>In Action
 description: |
+
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+
+Previously to using UniversalDashboard I used to use Powershell Studio and deploy my powershell solution as an executable, which would then display an application user interface. [Now I use Powershell UniversalDashboard](https://psdevuk.github.io/adam-blog/)!which I have used to either convert my pre-existing applications or create new solutions. The end user interface is now a sleek looking webpage, with nice looking components displaying live data.
