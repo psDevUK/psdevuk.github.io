@@ -2,7 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Being Part Of<br>Something Bigger
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+
+I am a very active member on the [powershell UniversalDashboard forum](https://forums.universaldashboard.io/), as well as [twitter](http://www.twitter.com). I like to stay up-to-date with new technologies, and always looking for things to automate to save time and money.
