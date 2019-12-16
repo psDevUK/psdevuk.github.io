@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Powershell Blog:<br>Universal Dashboard
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  I have [my personal blog site](https://psdevuk.github.io/ud-flix/) which is dedicated to powershell universal dashboard. I have been using this product for just over a year and I think it is an amazing module that allows you to develop all the things you could possibly wish for.
