@@ -2,16 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+url: https://psdevuk.github.io/
+title: Adam Bacon
+email: adambacon1@hotmail.com
+author: Adam Bacon
+description: > # "Write an awesome description for your new site here.
+  This site is all about me and links to my other sites I have.
+copyright: "Copyright &copy; 2019 Adam Bacon. All Rights Reserved."
+credits: "Credits: Adam Bacon"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,8 +25,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/psdevuk
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/psDevUK
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com/in/adam-bacon-993009100/
