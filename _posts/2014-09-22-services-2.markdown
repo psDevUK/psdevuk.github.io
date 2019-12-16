@@ -1,11 +1,9 @@
-        ---
-
+---
 layout: default
 img: dog.png
 category: Services
 title: Working Projects<br>In Action
 description: |
-
 ---
 
 Previously to using UniversalDashboard I used to use Powershell Studio and deploy my powershell solution as an executable, which would then display an application user interface. [Now I use Powershell UniversalDashboard](https://psdevuk.github.io/adam-blog/)!which I have used to either convert my pre-existing applications or create new solutions. The end user interface is now a sleek looking webpage, with nice looking components displaying live data.
